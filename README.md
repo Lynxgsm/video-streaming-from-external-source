@@ -19,3 +19,7 @@ python client.py
 ```
 
 Of course, you can open many clients at a time
+
+## Sources
+
+- [How-to-make-a-simple-cache-server-to-broadcast-drone-video](https://pyshine.com/How-to-make-a-simple-cache-server-to-broadcast-drone-video/)
